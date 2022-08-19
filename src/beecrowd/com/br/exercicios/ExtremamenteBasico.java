@@ -1,5 +1,9 @@
 package beecrowd.com.br.exercicios;
 
+/* LINK DO EXERCICIO
+ https://www.beecrowd.com.br/judge/pt/problems/view/1001 */
+
+
 import java.util.Scanner;
 
 public class ExtremamenteBasico {
