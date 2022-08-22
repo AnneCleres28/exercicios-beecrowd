@@ -5,7 +5,7 @@ package beecrowd.com.br.exercicios;
 
 import java.util.Scanner;
 
-public class ProdutoSimples {
+public class ProdutoSimples1004 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int x, y, prod = 0;

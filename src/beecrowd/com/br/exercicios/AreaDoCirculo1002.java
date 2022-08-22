@@ -5,7 +5,7 @@ package beecrowd.com.br.exercicios;
 
 import java.util.Scanner;
 
-public class AreaDoCirculo {
+public class AreaDoCirculo1002 {
     public static void main(String[] args){
         Scanner ler = new Scanner(System.in);
         double n = 3.14159, raio = 0, area = 0;

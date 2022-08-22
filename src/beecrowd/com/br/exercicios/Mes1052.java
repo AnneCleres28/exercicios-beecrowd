@@ -5,7 +5,7 @@ package beecrowd.com.br.exercicios;
 
 import java.util.Scanner;
 
-public class Mes {
+public class Mes1052 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int mes = scanner.nextInt();

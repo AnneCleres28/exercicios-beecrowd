@@ -5,7 +5,7 @@ package beecrowd.com.br.exercicios;
 
 import java.util.Scanner;
 
-public class GastoDeCombustivel {
+public class GastoDeCombustivel1017 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 

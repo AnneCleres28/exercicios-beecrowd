@@ -6,7 +6,7 @@ package beecrowd.com.br.exercicios;
 
 import java.util.Scanner;
 
-public class DistanciaEntreDoisPontos {
+public class DistanciaEntreDoisPontos1015 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         double x1, x2, y1, y2, distancia = 0;

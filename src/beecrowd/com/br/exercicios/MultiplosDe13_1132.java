@@ -5,7 +5,7 @@ package beecrowd.com.br.exercicios;
 
 import java.util.Scanner;
 
-public class MultiplosDe13 {
+public class MultiplosDe13_1132 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int X = scanner.nextInt();

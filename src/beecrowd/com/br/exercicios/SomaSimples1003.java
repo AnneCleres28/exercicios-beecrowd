@@ -5,7 +5,7 @@ package beecrowd.com.br.exercicios;
 
 import java.util.Scanner;
 
-public class SomaSimples {
+public class SomaSimples1003 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int A, B, soma = 0;
