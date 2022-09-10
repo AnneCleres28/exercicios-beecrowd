@@ -8,7 +8,7 @@ import java.util.Scanner;
 public class SomaSimples1003 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        int A, B, soma = 0;
+        int A, B;
 
         System.out.println("Número A: ");
         A = scanner.nextInt();
@@ -16,7 +16,9 @@ public class SomaSimples1003 {
         System.out.println("Número B: ");
         B = scanner.nextInt();
 
-        soma = A + B;
-        System.out.println("SOMA = " + soma);
+        System.out.println("SOMA = " + soma(A, B));
+    }
+    public static int soma(int A, int B){
+        return A + B;
     }
 }
